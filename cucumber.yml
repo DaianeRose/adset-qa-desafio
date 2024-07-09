@@ -1,0 +1,1 @@
+default: --format json --out report/cucumber_report.json --format AllureCucumber::Formatter
